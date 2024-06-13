@@ -2,6 +2,7 @@ package generics;
 
 public final class Algorithm {
 
+    //Exercise3
     //Czy następująca klasa zostanie skompilowana? Jeśli nie, to dlaczego? (Uruchom
     //poniższy kod żeby sprawdzić):
 
