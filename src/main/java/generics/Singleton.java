@@ -6,12 +6,12 @@ public class Singleton<T> {
     //Czy następująca klasa zostanie skompilowana? Jeśli nie, to dlaczego? (Uruchom
     //poniższy kod żeby sprawdzić)
 
-    public static T getInstance() {
-        if (instance == null)
-            instance = new Singleton<T>();
-        return instance;
-    }
-    private static T instance = null;
+//    public static T getInstance() {
+//        if (instance == null)
+//            instance = new Singleton<T>();
+//        return instance;
+//    }
+//    private static T instance = null;
 
     //java: non-static type variable T cannot be referenced from a static context
     //Nie. Powody? Brak Inicjalizacji Generyka w Static: Generyk T nie może być użyty w kontekście statycznym, takim
