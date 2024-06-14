@@ -102,37 +102,33 @@ public class Main {
             }
         }
 
-        LinkedHashSet<Integer> randomNumbers = new LinkedHashSet<>();
-
-        while (randomNumbers.size() != (theNumberOfGames * 6)) {
-            int random = (int) (Math.random() * 49 + 1);
-            randomNumbers.add(random);
-        }
-
+        System.out.println();
         System.out.println("Your numbers: ");
         for (Integer playersNumber : playersNumbers) {
             System.out.print(playersNumber + " ");
         }
 
+
         System.out.println();
         int counter = 0;
         int theWinning = 0;
-        HashSet<Integer> theGamesNumbers = new HashSet<>();
+        LinkedHashSet<Integer> theGamesNumbers = new LinkedHashSet<>();
         System.out.println("The drawn numbers: ");
-        for (Integer randomNumber : randomNumbers) {
-            System.out.print(randomNumber + " ");
-            theGamesNumbers.add(randomNumber);
-            counter++;
-            if (counter % 6 == 0) {
+
+        while (counter != theNumberOfGames) {
+            int random = (int) (Math.random() * 49 + 1);
+            theGamesNumbers.add(random);
+            if (theGamesNumbers.size() == 6) {
                 for (Integer theGamesNumber : theGamesNumbers) {
                     if (playersNumbers.contains(theGamesNumber)) {
                         theWinning++;
                     }
+                    System.out.print(theGamesNumber + " ");
                 }
-                System.out.print("You win " + theWinning);
-                theWinning = 0;
+                System.out.println("You win: " + theWinning);
                 theGamesNumbers.clear();
-                System.out.println();
+                theWinning = 0;
+                counter++;
             }
         }
 

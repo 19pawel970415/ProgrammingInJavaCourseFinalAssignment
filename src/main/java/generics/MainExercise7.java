@@ -7,8 +7,8 @@ public class MainExercise7 {
         //Czy następujący kod zostanie skompilowany? Jeśli nie, to dlaczego? (Uruchom kod
         //żeby sprawdzić):
 
-        Node<String> node = new Node<>();
-        Comparable<String> comp = node;
+//        Node<String> node = new Node<>();
+//        Comparable<String> comp = node;
 
         //java: incompatible types: generics.Node<java.lang.String> cannot be converted to java.lang.Comparable<java.lang.String>
         //Nie. Zgodnie z zasadami generyków i interfejsów, bez jawnego upewnienia kompilatora o tym, że Node<String>
