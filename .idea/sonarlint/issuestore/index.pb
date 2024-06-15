@@ -1,5 +1,25 @@
 
 Z
 *ProgrammingInJavaCourseFinalAssignment.iml,1\c\1c3dc9cd36550048afde72dc29b8d2f597d97910
-7
-pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+U
+%src/main/java/generics/Algorithm.java,c\5\c5ac636f2e45dde3985c42af17d8c4ab9aae3471
+U
+%src/main/java/generics/Singleton.java,d\1\d147aef4b252db2ba15de7657a1ee6a8e6fb754d
+Q
+!src/main/java/generics/Shape.java,2\9\29b4fbbf776eba438b578de5ad74f9cd68110fea
+U
+%src/main/java/generics/Rectangle.java,d\4\d4a19a49872efed492f8f1e45872cad42d5e8aa3
+R
+"src/main/java/generics/Circle.java,7\7\77e88f05d075a0ab4a3a60435c584f37b9360f5c
+Y
+)src/main/java/generics/MainExercise6.java,6\4\64c47be3b12e7a1e641f69f447eb09e66c88d9f0
+P
+ src/main/java/generics/Node.java,9\f\9f68cc7f1b48065995ab5d330374dd572380cdf6
+Y
+)src/main/java/generics/MainExercise7.java,5\c\5cbcd91ebc4560d4b559d0fe1e85d4cbd5e8bf11
+S
+#src/main/java/collections/Main.java,5\1\51a8611da00a722fb58f6254abfe3e50c08e89c8
+Y
+)src/main/java/generics/MainExercise4.java,d\c\dc34114a36f85624f3d909b2de04f9143cfc2275
+P
+ src/main/java/generics/Main.java,b\1\b142405cc17e671f806ee3adff4a40b31e46b4f8
