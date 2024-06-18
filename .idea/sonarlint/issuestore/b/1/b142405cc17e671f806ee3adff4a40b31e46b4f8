@@ -1,0 +1,21 @@
+
+t
+java:S2293c"YReplace the type specification in this constructor call with the diamond operator ("<>").(ôšïüÿÿÿÿ
+p
+java:S1488ˆ"YImmediately return this expression instead of assigning it to the temporary variable "t".(•ê««
+1
+java:S2326"T is not used in the class.(ˆÁ˜ô
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¤¯„‰úÿÿÿÿ
+S	java:S106/"9Replace this use of System.out or System.err by a logger.(Å­Ëİúÿÿÿÿ
+N	java:S1063"9Replace this use of System.out or System.err by a logger.(«òˆì
+N	java:S1067"9Replace this use of System.out or System.err by a logger.(ìç‹£
+N	java:S106:"9Replace this use of System.out or System.err by a logger.(ş”ØÚ
+S	java:S106@"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+N	java:S106A"9Replace this use of System.out or System.err by a logger.(£õƒã
+S	java:S106f"9Replace this use of System.out or System.err by a logger.(€‡Ä‡şÿÿÿÿ
+S	java:S106i"9Replace this use of System.out or System.err by a logger.(­½“ûÿÿÿÿ
+S	java:S106l"9Replace this use of System.out or System.err by a logger.(‡ˆàÔøÿÿÿÿ
+S	java:S106o"9Replace this use of System.out or System.err by a logger.(Šîğôıÿÿÿÿ
+S	java:S106r"9Replace this use of System.out or System.err by a logger.(ÂÉÒúÿÿÿÿ
+S	java:S106|"9Replace this use of System.out or System.err by a logger.(õë…½ÿÿÿÿÿ
+V	java:S106…"9Replace this use of System.out or System.err by a logger.(ìÍ¬æ8˜°³•2

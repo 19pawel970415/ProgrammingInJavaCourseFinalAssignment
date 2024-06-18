@@ -1,0 +1,29 @@
+
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 39 to the 15 allowed.(Çµí‘
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¤¯„‰úÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¶ÙÆ‘úÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(±¼
+N	java:S106"9Replace this use of System.out or System.err by a logger.(†™ñ‹
+S	java:S106("9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ
+N	java:S106)"9Replace this use of System.out or System.err by a logger.(£õƒã
+S	java:S106/"9Replace this use of System.out or System.err by a logger.(¶ÙÆ‘úÿÿÿÿ
+S	java:S1068"9Replace this use of System.out or System.err by a logger.(¢šşÿÿÿÿ
+N	java:S106:"9Replace this use of System.out or System.err by a logger.(†™ñ‹
+S	java:S106B"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ
+N	java:S106C"9Replace this use of System.out or System.err by a logger.(ÏÏ™ê
+N	java:S106I"9Replace this use of System.out or System.err by a logger.(åíïé
+M	java:S106N"9Replace this use of System.out or System.err by a logger.(Éš÷5
+S	java:S106S"9Replace this use of System.out or System.err by a logger.(”µ‘¨ûÿÿÿÿ
+N	java:S106W"9Replace this use of System.out or System.err by a logger.(ÑÖÚô
+S	java:S106^"9Replace this use of System.out or System.err by a logger.(¿·¿Øøÿÿÿÿ
+N	java:S106d"9Replace this use of System.out or System.err by a logger.(ÑÖÚô
+S	java:S106i"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+S	java:S106j"9Replace this use of System.out or System.err by a logger.(•êÖÅûÿÿÿÿ
+S	java:S106l"9Replace this use of System.out or System.err by a logger.(«÷ùåùÿÿÿÿ
+S	java:S106p"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+S	java:S106t"9Replace this use of System.out or System.err by a logger.(£¥³ãøÿÿÿÿ
+D
+java:S2140w")Use "java.util.Random.nextInt()" instead.(ÿÿòğúÿÿÿÿ
+S	java:S106~"9Replace this use of System.out or System.err by a logger.(€Ê…şüÿÿÿÿ
+O	java:S106€"9Replace this use of System.out or System.err by a logger.(Õ×à†

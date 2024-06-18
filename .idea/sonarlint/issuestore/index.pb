@@ -23,3 +23,7 @@ Y
 )src/main/java/generics/MainExercise4.java,d\c\dc34114a36f85624f3d909b2de04f9143cfc2275
 P
  src/main/java/generics/Main.java,b\1\b142405cc17e671f806ee3adff4a40b31e46b4f8
+Q
+!src/main/java/GuessGame/Main.java,3\7\37a7787df8ff84ddb6066109411d5aa26990a440
+c
+3src/main/java/files/peopleApp/application/Main.java,d\7\d70195681485b9732d1e0bca1cb014c6accfcbbc
